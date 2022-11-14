@@ -79,7 +79,7 @@ img {
   border-radius: 28px;
   border: 1px solid #ffffff;
   cursor: pointer;
-  color: #ffffff;
+  color: #3A5A40;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -87,7 +87,7 @@ img {
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#588157;
 }
 
 .myButton:active {
