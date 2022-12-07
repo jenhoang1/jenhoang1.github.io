@@ -10,7 +10,7 @@ body {
 
 header, footer {
   background-color: #4C956C;
-  text-align: left;
+  text-align: center;
 }
 
 header {
@@ -84,7 +84,7 @@ iframe {
   border: 1px solid #FEFEE3;
   cursor: pointer;
   color: #FEFEE3;
-  font-size: 20px;
+  font-size: 25px;
   padding: 16px 31px;
   text-decoration: none;
   margin: 1.69em auto;
@@ -111,7 +111,7 @@ a {
 
 .description {
   font-family: 'Alice', serif;
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
@@ -133,7 +133,6 @@ footer div {
   align-content: center;
   padding: 10px 20px;
   color: #FEFEE3;
-  /* color: rgba(255, 255, 255, 0.75); */
 }
 
 @media all and (max-width:700px) {
